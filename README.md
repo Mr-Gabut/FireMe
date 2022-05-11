@@ -1,6 +1,6 @@
 # FireMe
 
-**Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lihat Di** [Click Here](https://YouTube.com)
+**Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lihat Di** [Click Here](https://youtube.com/channel/UCEg3T9hyhlkDkTPf_kGo4ow)
 
 # Perintah
 ```
@@ -14,6 +14,8 @@ $ cd FireMe
 $ git pull
 $ python Prem.py
 ```
+> Token [Disini](https://cararegistrasi.com/psKPO1aTO)
+
 # Sosial Media
 <b>• [Facebook](https://www.facebook.com/faizal.asshadily)</b>
 <br>

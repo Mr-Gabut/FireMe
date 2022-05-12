@@ -12,7 +12,7 @@ $ pip install futures
 $ git clone https://github.com/Mr-Gabut/FireMe
 $ cd FireMe
 $ git pull
-$ python Prem.py
+$ python FireMe.py
 ```
 > Token [Disini](https://cararegistrasi.com/psKPO1aTO)
 
